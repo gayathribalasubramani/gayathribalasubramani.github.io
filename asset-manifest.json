@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gayathribalasubramani.github.io/static/css/main.3aaced87.chunk.css",
+    "main.js": "/gayathribalasubramani.github.io/static/js/main.ac0f0807.chunk.js",
+    "main.js.map": "/gayathribalasubramani.github.io/static/js/main.ac0f0807.chunk.js.map",
+    "runtime-main.js": "/gayathribalasubramani.github.io/static/js/runtime-main.539c1b6d.js",
+    "runtime-main.js.map": "/gayathribalasubramani.github.io/static/js/runtime-main.539c1b6d.js.map",
+    "static/js/2.0375b95a.chunk.js": "/gayathribalasubramani.github.io/static/js/2.0375b95a.chunk.js",
+    "static/js/2.0375b95a.chunk.js.map": "/gayathribalasubramani.github.io/static/js/2.0375b95a.chunk.js.map",
+    "index.html": "/gayathribalasubramani.github.io/index.html",
+    "precache-manifest.cc94b2c49237f6b3546826ce90afe0c7.js": "/gayathribalasubramani.github.io/precache-manifest.cc94b2c49237f6b3546826ce90afe0c7.js",
+    "service-worker.js": "/gayathribalasubramani.github.io/service-worker.js",
+    "static/css/main.3aaced87.chunk.css.map": "/gayathribalasubramani.github.io/static/css/main.3aaced87.chunk.css.map",
+    "static/js/2.0375b95a.chunk.js.LICENSE.txt": "/gayathribalasubramani.github.io/static/js/2.0375b95a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.539c1b6d.js",
+    "static/js/2.0375b95a.chunk.js",
+    "static/css/main.3aaced87.chunk.css",
+    "static/js/main.ac0f0807.chunk.js"
+  ]
+}
